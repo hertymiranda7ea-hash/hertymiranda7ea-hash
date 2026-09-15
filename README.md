@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hola, soy Herty
 
-<!--
-**hertymiranda7ea-hash/hertymiranda7ea-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
-Here are some ideas to get you started:
+Actualmente estudiando en ITB Barcelona
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías
+HTML  CSS  Java  JavaScript  SQL  Git  GitHub
+
+Proyectos
+Aquí iré publicando mis proyectos y prácticas durante el ciclo.
+
+Objetivo
+Seguir aprendiendo desarrollo de software y construir
+un portfolio profesional.
